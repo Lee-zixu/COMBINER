@@ -2,7 +2,7 @@
 
 This is an open-source implementation of the paper "COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations" (**COMBINER**).
 
-<font color="red"> *The complete codes will be released after acceptance.* </font>
+## **✅ The complete codes will be released after acceptance.**
 
 
 ### Installation
