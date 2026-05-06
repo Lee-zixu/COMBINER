@@ -57,9 +57,9 @@ COMBINER consistently outperforms existing baselines (e.g., DQU-CIR, SPRC, SADN)
 
 ### 1. FashionIQ & Shoes Datasets
 *(Evaluated using Recall@K)*
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:12px">
-  <img src="assets/results-fiq.png" alt="FashionIQ and Shoes Results" height="330" style="object-fit:contain;">
-  <img src="assets/results-shoes.png" alt="FashionIQ and Shoes Results" height="330" style="object-fit:contain;">
+<div align="center">
+  <img src="assets/results-fiq.png" alt="FashionIQ and Shoes Results" height="380" style="object-fit:contain;">
+  <img src="assets/results-shoes.png" alt="FashionIQ and Shoes Results" height="380" style="object-fit:contain;">
 </div>
 
 ### 2. CIRR Dataset
