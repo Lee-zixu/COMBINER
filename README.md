@@ -26,12 +26,14 @@ Existing CIR approaches often overlook cases where images appear visually alike 
 <div align="center">
 <p align="center">
   <img src="assets/COMBINER-Intro1.png" alt="COMBINER intro1" width="900">
-  <figcaption><strong>Figure 1.</strong> Example of (a) Pairwise Relations, (b) Neighbor Relations, and (c) Visually Similar Images in Relations Modeling. In this figure, $Q$ denotes the multimodal query, $T$ denotes the target image, and $C$ denotes the candidate image. Fig. 1(c) illustrates the traditional neighbor relations modeling methodology brings both candidate images $C_1$ and $C_2$ close to $Q_1$. However, $C_2$ is visually similar but attribute-unrelated with $Q_1$ (“carpet” does not match the query “bedding”). Therefore, $C_2$ should not be brought close to $Q_1$.</figcaption>
+  
+<strong>Figure 1.</strong> Example of (a) Pairwise Relations, (b) Neighbor Relations, and (c) Visually Similar Images in Relations Modeling. In this figure, $Q$ denotes the multimodal query, $T$ denotes the target image, and $C$ denotes the candidate image. Fig. 1(c) illustrates the traditional neighbor relations modeling methodology brings both candidate images $C_1$ and $C_2$ close to $Q_1$. However, $C_2$ is visually similar but attribute-unrelated with $Q_1$ (“carpet” does not match the query “bedding”). Therefore, $C_2$ should not be brought close to $Q_1$.
 </p>
 
 <p align="center">
   <img src="assets/COMBINER-Intro2.png" alt="COMBINER intro1" width="900">
-  <figcaption><strong>Figure 2.</strong>  Schematic of our proposed similarity measure method based on attribute prototypes.</figcaption>
+  
+<strong>Figure 2.</strong>  Schematic of our proposed similarity measure method based on attribute prototypes.
 </p>
 
 
