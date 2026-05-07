@@ -2,6 +2,7 @@
 
 <a id="top"></a>
 <div align="center">
+  <img src="./assets/logo.png" width="600"> 
   <h1>[TIP 2026] COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations</h1>
 
   <p>
@@ -73,7 +74,7 @@ COMBINER consistently outperforms existing baselines (e.g., DQU-CIR, SPRC, SADN)
 ### 1. FashionIQ & Shoes Datasets
 *(Evaluated using Recall@K)*
 <div align="center">
-  <img src="assets/results-fiq.png" alt="FashionIQ and Shoes Results" width="900" style="object-fit:contain;">
+  <img src="assets/results-fiq.png" alt="FashionIQ and Shoes Results" height="330" style="object-fit:contain;">
   <img src="assets/results-shoes.png" alt="FashionIQ and Shoes Results" height="330" style="object-fit:contain;">
 </div>
 
