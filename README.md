@@ -4,7 +4,20 @@
 <div align="center">
   <img src="./assets/logo.png" width="600"> 
   <h1>[TIP 2026] COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations</h1>
-
+  <div>
+  <a target="_blank" href="https://lee-zixu.github.io/">Zixu&#160;Li</a><sup>1</sup>,
+    <a target="_blank" href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng&#160;Hu</a><sup>1&#9993</sup>,
+  <a target="_blank" href="https://zivchen-ty.github.io/">Zhiwei&#160;Chen</a><sup>1</sup>,
+   <a target="_blank" href="https://haokunwen.github.io/">Haokun&#160;Wen</a><sup>2</sup>,
+   <a target="_blank" href="https://xuemengsong.github.io/">Xuemeng&#160;Song</a><sup>3</sup>,
+  <a target="_blank" href="https://liqiangnie.github.io">Liqiang&#160;Nie</a><sup>2</sup>
+  </div>
+  <sup>1</sup>School of Software, Shandong University &#160&#160&#160</span>  <br>
+  <sup>2</sup>School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen) &#160&#160&#160</span>  <br>
+  <sup>3</sup>Department of Computer Science and Engineering, Southern University of Science and Technology&#160&#160&#160</span> 
+  <br />
+  <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+  <br/>
   <p>
       <a href=""><img src="https://img.shields.io/badge/IEEE TIP-2026-blue.svg?style=flat-square" alt="IEEE TIP 2026"></a>
     <a href=""><img alt='arXiv' src="https://img.shields.io/badge/arXiv-Coming.Soon-b31b1b.svg"></a>
