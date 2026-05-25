@@ -292,8 +292,8 @@ If you find our work or this code useful in your research, please consider leavi
       <b>TEMA (ACL'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://arxiv.org/abs/2604.21806" target="_blank">Paper</a> | 
-        <a href="https://lee-zixu.github.io/TEMA.github.io/" target="_blank">Web</a> | 
-        <a href="https://github.com/Lee-zixu/ACL26-TEMA" target="_blank">Code</a>
+        <a href="https://lee-zixu.github.io/TEMA.github.io/" target="_blank">Project</a> | 
+        <a href="https://github.com/Lee-zixu/ACL26-TEMA" target="_blank">Code</a> 
       </span>
     </td>
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
@@ -301,8 +301,9 @@ If you find our work or this code useful in your research, please consider leavi
       <b>ConeSep (CVPR'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://arxiv.org/abs/2604.20358" target="_blank">Paper</a> | 
-        <a href="https://lee-zixu.github.io/ConeSep.github.io/" target="_blank">Web</a> | 
-        <a href="https://github.com/Lee-zixu/ConeSep" target="_blank">Code</a>  
+        <a href="https://lee-zixu.github.io/ConeSep.github.io/" target="_blank">Project</a> | 
+        <a href="https://github.com/Lee-zixu/ConeSep" target="_blank">Code</a>  |
+        <a href="http://xhslink.com/o/2Cm9p4DMS1" target="_blank">Blog Post (Chinese)</a>    
       </span>
     </td>  
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
@@ -310,8 +311,9 @@ If you find our work or this code useful in your research, please consider leavi
       <b>Air-Know (CVPR'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="http://arxiv.org/abs/2604.19386" target="_blank">Paper</a> | 
-        <a href="https://zhihfu.github.io/Air-Know.github.io/" target="_blank">Web</a> | 
-        <a href="https://github.com/ZhihFu/Air-Know" target="_blank">Code</a>  
+        <a href="https://zhihfu.github.io/Air-Know.github.io/" target="_blank">Project</a> | 
+        <a href="https://github.com/ZhihFu/Air-Know" target="_blank">Code</a>  |
+        <a href="http://xhslink.com/o/5oVjQ1a3apO" target="_blank">Blog Post (Chinese)</a>  
       </span>
     </td>  
       </tr>
@@ -321,7 +323,7 @@ If you find our work or this code useful in your research, please consider leavi
       <b>INTENT (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39181" target="_blank">Paper</a> |
-        <a href="https://zivchen-ty.github.io/INTENT.github.io/" target="_blank">Web</a> | 
+        <a href="https://zivchen-ty.github.io/INTENT.github.io/" target="_blank">Project</a> | 
         <a href="https://github.com/ZivChen-Ty/INTENT" target="_blank">Code</a> 
       </span>
     </td>  
@@ -330,7 +332,7 @@ If you find our work or this code useful in your research, please consider leavi
       <b>HABIT (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37608" target="_blank">Paper</a> |
-        <a href="https://lee-zixu.github.io/HABIT.github.io/" target="_blank">Web</a> | 
+        <a href="https://lee-zixu.github.io/HABIT.github.io/" target="_blank">Project</a> | 
         <a href="https://github.com/Lee-zixu/HABIT" target="_blank">Code</a>
       </span>
     </td>
@@ -339,7 +341,7 @@ If you find our work or this code useful in your research, please consider leavi
       <b>ReTrack (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39507" target="_blank">Paper</a> |
-        <a href="https://lee-zixu.github.io/ReTrack.github.io/" target="_blank">Web</a> | 
+        <a href="https://lee-zixu.github.io/ReTrack.github.io/" target="_blank">Project</a> | 
         <a href="https://github.com/Lee-zixu/ReTrack" target="_blank">Code</a> |
       </span>
     </td>
@@ -350,7 +352,7 @@ If you find our work or this code useful in your research, please consider leavi
       <b>HUD (ACM MM'25)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://dl.acm.org/doi/10.1145/3746027.3755445" target="_blank">Paper</a> |
-        <a href="https://zivchen-ty.github.io/HUD.github.io/" target="_blank">Web</a> | 
+        <a href="https://zivchen-ty.github.io/HUD.github.io/" target="_blank">Project</a> | 
         <a href="https://github.com/ZivChen-Ty/HUD" target="_blank">Code</a> |
       </span>
     </td>
@@ -359,7 +361,7 @@ If you find our work or this code useful in your research, please consider leavi
       <b>OFFSET (ACM MM'25)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://dl.acm.org/doi/10.1145/3746027.3755366" target="_blank">Paper</a> |
-        <a href="https://zivchen-ty.github.io/OFFSET.github.io/" target="_blank">Web</a> | 
+        <a href="https://zivchen-ty.github.io/OFFSET.github.io/" target="_blank">Project</a> | 
         <a href="https://github.com/ZivChen-Ty/OFFSET" target="_blank">Code</a>
       </span>
     </td>
@@ -368,7 +370,7 @@ If you find our work or this code useful in your research, please consider leavi
       <b>ENCODER (AAAI'25)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32541" target="_blank">Paper</a> |
-        <a href="https://sdu-l.github.io/ENCODER.github.io/" target="_blank">Web</a> | 
+        <a href="https://sdu-l.github.io/ENCODER.github.io/" target="_blank">Project</a> | 
         <a href="https://github.com/Lee-zixu/ENCODER" target="_blank">Code</a>
       </span>
     </td>
